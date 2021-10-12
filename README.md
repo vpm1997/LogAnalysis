@@ -29,7 +29,7 @@ Results will be printed on stdout.
 Sample Files:
 
 Ran application on sample files situated in staticfiles folder.
-Results are in the results.log folder.
+Results are in the results.log file.
 
 
 
